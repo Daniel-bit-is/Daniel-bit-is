@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💻 Daniel Gonzalez - Programador Web
 
-<!--
-**Daniel-bit-is/Daniel-bit-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy tomando cursos de programación y tengo experiencia creando aplicaciones web con **ReactJS**, **JavaScript**, **HTML**, y **CSS**.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **App Clima**: Aplicación web de clima usando HTML, CSS y JavaScript.
+- **Lista de Tareas**: Aplicación de lista de tareas usando HTML, CSS y JavaScript.
+
+## 🔧 Lenguajes y Herramientas
+
+- **Lenguajes**: JavaScript, HTML, CSS
+- **Herramientas**: ReactJS
+
+## 📧 Contacto
+
+- **Correo**: [dangonlop23@gmail.com](dangonlop23@gmail.com)
+- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/daniel-gonzalez-40950as)
+
+---
+
+¡No dudes en contactarme si tienes preguntas o colaboraciones!
