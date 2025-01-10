@@ -1,6 +1,6 @@
 # 💻 Daniel Gonzalez - Programador Web
 
-Estoy tomando cursos de programación y tengo experiencia creando aplicaciones web con **ReactJS**, **JavaScript**, **HTML**, y **CSS**.
+En constante aprendizaje y llevandolo a la practica creando aplicaciones web con **ReactJS**, **JavaScript**, **HTML**, y **CSS**.
 
 ## 🚀 Proyectos
 
