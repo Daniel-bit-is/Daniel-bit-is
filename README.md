@@ -14,7 +14,7 @@ En constante aprendizaje y llevandolo a la practica creando aplicaciones web con
 
 ## 📧 Contacto
 
-- **Correo**: [dangonlop23@gmail.com](dangonlop23@gmail.com)
+- **Correo**: [dangonlop23@gmail.com]()
 - **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/daniel-gonzalez-40950as)
 
 ---
