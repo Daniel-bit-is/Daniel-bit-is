@@ -1,4 +1,4 @@
-# 💻 Daniel Gonzalez - Programador Web
+# 💻 Daniel Gonzalez - Desarrollador Web
 
 En constante aprendizaje y llevandolo a la practica creando aplicaciones web con **ReactJS**, **JavaScript**, **HTML**, y **CSS**.
 
