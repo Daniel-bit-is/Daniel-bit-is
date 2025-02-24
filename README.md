@@ -6,7 +6,7 @@ En constante aprendizaje y llevandolo a la practica creando aplicaciones web con
 
 - **App Clima**: Aplicación web de clima usando HTML, CSS y JavaScript.
 - **Lista de Tareas**: Aplicación de lista de tareas usando HTML, CSS y JavaScript.
-- **PDF a JPG**: Herramienta de Escritorio para pasar de PDF a JPG
+- **PDF a JPG**: Herramienta de Escritorio para pasar de PDF a JPG Usando Python.
 
 ## 🔧 Lenguajes y Herramientas
 
