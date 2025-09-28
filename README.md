@@ -1,6 +1,6 @@
-# 💻 Daniel Gonzalez - Desarrollador Web
+# 💻 Daniel Gonzalez - Desarrollador 
 
-En constante aprendizaje y llevandolo a la practica creando aplicaciones web con **ReactJS**, **JavaScript**, **HTML**, y **CSS**.
+En constante aprendizaje y llevandolo a la practica creando aplicaciones con **PHP**, **JavaScript**, **HTML**, y **CSS**.
 
 ## 🚀 Proyectos
 
@@ -8,10 +8,9 @@ En constante aprendizaje y llevandolo a la practica creando aplicaciones web con
 - **Lista de Tareas**: Aplicación de lista de tareas usando HTML, CSS y JavaScript.
 - **PDF a JPG**: Herramienta de Escritorio para pasar de PDF a JPG Usando Python.
 
-## 🔧 Lenguajes y Herramientas
+## 🔧 Lenguajes 
 
-- **Lenguajes**: JavaScript, Python, HTML, CSS
-- **Herramientas**: ReactJS
+- **Lenguajes**: JavaScript, Python, PHP, SQl, HTML, CSS
 
 ## 📧 Contacto
 
