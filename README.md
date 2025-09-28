@@ -10,7 +10,7 @@ En constante aprendizaje y llevandolo a la practica creando aplicaciones con **P
 
 ## 🔧 Lenguajes 
 
-- **Lenguajes**: JavaScript, Python, PHP, SQl, HTML, CSS
+- **Lenguajes**: JavaScript, Python, PHP, SQL, HTML, CSS
 
 ## 📧 Contacto
 
